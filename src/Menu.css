@@ -1,0 +1,15 @@
+.menuStyle{
+    width: 100%;
+    background: #FBFE4C;
+    height: 100px;
+}
+.menuStyle ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+
+}
+.menuStyle li{
+    list-style-type: none;
+}

@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+.contact_us{
+
+    width:100%;
+    height: 360px;
+    display:block;
+    /* justify-content: center;
+    align-items: center; */
+    background-color: #FBFE4C ;
+}
